@@ -1,0 +1,9 @@
+interface: 127.0.0.1
+user: tobi
+root_dir: /Users/tobi/salt-conf/master/
+file_roots:
+  base:
+    - /Users/tobi/salt-conf/master/salt
+pillar_roots:
+  base:
+    - /Users/tobi/salt-conf/master/pillar

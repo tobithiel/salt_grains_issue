@@ -1,0 +1,10 @@
+/master/etc/salt/pki
+/master/var/cache
+/master/var/log
+/master/var/run
+
+/minion/etc/salt/pki
+/minion/etc/salt/minion.d
+/minion/var/cache
+/minion/var/log
+/minion/var/run

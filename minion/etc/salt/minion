@@ -1,0 +1,5 @@
+master: 127.0.0.1
+user: tobi
+root_dir: /Users/tobi/salt-conf/minion/
+grains:
+  role: qa1
